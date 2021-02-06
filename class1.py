@@ -1,4 +1,5 @@
 # todo:
+#  aasdfas
 #  car class ---> mark, color, id(id reg) +
 #  car object create with static function and return +
 #  all car objects storage it anywhere +
